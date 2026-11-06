@@ -1,6 +1,6 @@
 # Lab 8: Sign-Up Forms and Choices
 
-**Course:** BCS352, HTML and CSS Introduction Lab (Invertis University, Bareilly)
+**Course:** BCS352, HTML and CSS Introduction Lab (Invertis University, Bar eilly)
 **Name:** Amrit Dubey | **Roll No:** BCS2025539
 
 **Aim:** Make a labelled form with text, email and password fields, choices and a submit button.
