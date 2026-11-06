@@ -1,9 +1,9 @@
 # STANDARD LAB PRACTICAL EXPERIMENT FORMAT
 **INVERTIS UNIVERSITY, BAREILLY**  
 **Faculty of Engineering & Technology**  
-**B.Tech CSE - Section C | BCSAI111: HTML and CSS Introduction Lab**  
-**Student Name:** Kartikeya Singh  
-**Roll Number:** 2510303255
+**B.Tech CSE - Section E |  HTML and CSS Introduction Lab**  
+**Student Name:** Amrit dubey 
+**Roll Number:** BCS2025539
 
 ---
 
