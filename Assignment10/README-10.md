@@ -1,4 +1,4 @@
-# Lab 10: CSS Fundamentals
+ # Lab 10: CSS Fundamentals
 
 **Course:** BCS352, HTML and CSS Introduction Lab (Invertis University, Bareilly)
 **Name:** Amrit dubey| **Roll No:** BCS2025539
