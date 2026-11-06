@@ -1,9 +1,9 @@
 # STANDARD LAB PRACTICAL EXPERIMENT FORMAT
 **INVERTIS UNIVERSITY, BAREILLY**  
 **Faculty of Engineering & Technology**  
-**B.Tech CSE - Section C | BCSAI111: HTML and CSS Introduction Lab**  
-**Student Name:** Kartikeya Singh  
-**Roll Number:** 2510303255
+**B.Tech CSE - Section E | : HTML and CSS Introduction Lab**  
+**Student Name:** Amrit dubey 
+**Roll Number:** BCS2025539
 
 ---
 
@@ -56,8 +56,8 @@ To start a Git repository for the lab folder, configure user details locally, st
 mkdir html-lab
 cd html-lab
 git init
-git config --local user.name "Kartikeya Singh"
-git config --local user.email "yashthakur518vitre@gmail.com"
+git config --local user.name "Amrit dubey"
+git config --local user.email "amritdubey78999@gmail.com"
 git config user.name
 git config user.email
 ```
@@ -105,8 +105,8 @@ git log --oneline
 
 ### 7. Input:
 - Repository Directory: `html-lab`
-- User Name: `Kartikeya Singh`
-- User Email: `yashthakur518vitre@gmail.com`
+- User Name: `Amrit dubey`
+- User Email: `amritdubey78999@gmail.com`
 - Commit Messages: `"Add home page"`, `"Add next meeting heading"`
 
 ### 8. Output:
